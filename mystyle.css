@@ -1,0 +1,30 @@
+h1{
+    margin-inline-start: 10%;
+    background-color: rgb(110, 212, 110);
+}
+form{
+    margin-left: 10%;
+}
+
+.info{
+    font-size:large;
+    
+    
+}
+
+h5,h3{
+     background-color: rgb(64, 204, 204);
+}
+
+.icon{
+    color: rgb(223, 183, 4);
+    
+}
+.button{
+    border-radius: 10%;
+    
+    
+}
+button:hover{
+    background-color: rgb(100, 100, 216);
+}
